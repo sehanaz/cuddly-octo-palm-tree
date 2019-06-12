@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+online shopping store
+</title>
+</head>
+<body background ="c:\users\admin\desktop\online shopping\bg1.jpg">
+<h1><marquee loop=500 scroll amount= 5 behaviour="lternate" width=1000"hspace="150"><i><b>
+<h2 style="font-size:200%;"style="font-family:veranda ;"style="colour:red;">SKY ONLINE SHOPPING</h2></marquee></i></b>
+<html>body=bgcolour
