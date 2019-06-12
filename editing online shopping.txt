@@ -1,0 +1,119 @@
+Eatwell is a privately-owned Indian casual-dining restaurant chain, founded in Chennai, Tamil Nadu, India in 1964.It now operates over 30 locations in 
+Chennai, Erode, Madurai, Coimbatore, Salem, and Bangalore. Internationally, the franchise has restaurants in Sri Lanka, Singapore, Malaysia, the Middle 
+East, Australia, and North America.Eatwell offers South Indian cuisine, particularly focusing on producing Chettinad-style preparations, while some 
+locations additionally offer Sri Lankan, Oriental and Middle East disheS.
+</pre>
+
+<pre>
+<h1><a name="c1"><em>Dishes</em></a></h1>
+  <img src="images\d1.jpg" class="img-circle" width="400" height="300" alt="Eatwell" >    <img src="images\menu_2.jpg" class="img-circle" width="400" height="300" alt="Eatwell2">   <img src="images\menu_3.jpg" class="img-circle" width="400" height="300" alt="Eatwell" >
+  <img src="images\d7.jpg" class="img-circle" width="400" height="300" alt="Eatwell2">    <img src="images\grill.jpg" class="img-circle" width="400" height="300" alt="Eatwell">   <img src="images\naan.jpg" class="img-circle" width="400" height="300" alt="Eatwell" >    
+  <img src="images\d9.jpg" class="img-circle" width="400" height="300" alt="Eatwell" >    <img src="images\offer_3.jpg" class="img-circle" width="400" height="300" alt="Eatwell">   <img src="images\menu_1.jpg" class="img-circle" width="400" height="300" alt="Eatwell" >   
+</pre>
+
+<h1><a name="c2"><em>Events</em></a></h1>  
+
+  <ul> <font size=6>
+  We hold events like
+    <li>wedding event</li> 
+    <li>engagement</li>  
+    <li>social gathering </li>   
+    <li>corporte party</li>   
+    <li>school function</li>  
+    <li>baby shower</li>  
+    <li>birthday party </li> 
+    <li>many others</li></font>
+    </ul>
+    
+<pre>
+<h1><img src="images\icon.png" width="40" height="40" alt="Eatwell"><a name="c4"><em>Contact us</em></a></h1>
+<center>
+<font size=6>
+   <li>Contact:0452-254003,0452-254005</li>
+   <li>Email:eatwell@gmail.com</li>
+   <li>Address:2/125,Eatwell Restaurant,K.K.Nagar,Madurai</li>
+</center>
+ <div>
+   <label>Feedback:</label>
+   <textarea rows="5"></textarea>
+</div>
+<button onclick="alert('Feedback Submitted')">Submit</button>
+</pre>
+
+
+</body>
+</html>
+
+
+TO BOOK A RESERVATION ONLINE
+<!DOCTYPE html>
+ <head>
+  <title>Catering service</title>
+ </head>
+<body>
+
+ <h1> Booking</h1>
+<form style="width:300px">
+  
+  <div>
+    <label>Name</label>
+      <input type="text" placeholder="User-Name" required>
+    </div><br><br>
+    
+    <div>
+    <label>Email</label>
+      <input type="email" placeholder="email" required>
+    </div><br><br>
+    
+    <div>
+      <label>Phone</label>
+      <input type="tel" placeholder="Phone Number" required>
+    </div><br><br>
+    
+    <div>
+      <label>Date</label>
+      <input type="date">
+    </div><br><br>
+    
+    <div>
+      <label>Time</label>
+      <input type="time">
+    </div><br><br>
+    
+    <div>
+      <label>Expected No. of People</label>
+      <select required>
+        <option></option>
+        <option>100</option>
+        <option>200</option>
+        <option>300</option>
+        <option>400+</option>
+      </select>
+    </div><br><br>
+     
+    <div>
+      <label>Food</label>
+       <select>
+        <option></option>
+        <option>VEG</option>
+        <option>NON-VEG</option>
+       </select>
+    </div> <br><br>
+     
+    <div>
+      <label>If any please specify:</label>
+      <textarea rows="4"></textarea>
+    </div> <br><br>
+
+    <button onclick="alert('BOOKING CONFIRMED!')">Reserve </button>
+       
+    <div style="position: absolute; top: 65px; right: 20px; width: 1000px; height: 600px;">
+    <img src="images\luto.jpg" align="right" align="top" width="900px" height="600px">
+    </div>
+    
+  </form>
+</div>
+
+
+</body>
+</html>
